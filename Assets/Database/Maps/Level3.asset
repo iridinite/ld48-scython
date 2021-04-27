@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa8b51f827d3912418b94f062c8bfa15, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  m_ShortName: The Arbiter
+  m_Description: A wide dead area splits this map in two, with two stretches of land
+    flanking the corruption.
+  m_Preview: {fileID: 2800000, guid: 6d640585c31be134291b479cbbea639d, type: 3}
+  m_MapIndex: 2

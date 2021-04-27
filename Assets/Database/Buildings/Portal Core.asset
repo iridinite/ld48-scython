@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eab1c609569b37408e303d369a638de, type: 3}
+  m_Name: Portal Core
+  m_EditorClassIdentifier: 
+  m_ShortName: Hell Portal
+  m_Description: An unstable rift to someplace else. The Portal generates more <sprite
+    name=Corruption> Corruption the deeper you delve.
+  m_Icon: {fileID: 298292630135900850, guid: c3bf1b159edb4f54b9374bb00295cc94, type: 3}
+  m_IsEmptySpace: 0
+  m_IsSelectable: 1
+  m_IsDeconstructable: 0
+  m_BuildCost: 0
+  m_UpkeepCost: 0
+  m_Upgrade: {fileID: 0}
+  m_Prefab: {fileID: 1346676013340104706, guid: 291e4d7773b915d479a1c491bdab04b0, type: 3}
+  m_PrefabGhost: {fileID: 0}
+  m_ShowCorruptionAnimations: 0
+  m_CorruptionSaturation: 0
+  m_CanBeInoperable: 0

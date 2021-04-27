@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c57bbb83a87964b96b7e127d828b53, type: 3}
+  m_Name: Wall 1
+  m_EditorClassIdentifier: 
+  m_ShortName: Wall
+  m_Description: Removes <sprite name=Corruption> 2 on its tile and provides <sprite
+    name=Saturation> 30, slowing the spread of Corruption through this tile.
+  m_Icon: {fileID: -3033419452388233224, guid: c3bf1b159edb4f54b9374bb00295cc94, type: 3}
+  m_IsEmptySpace: 0
+  m_IsSelectable: 1
+  m_IsDeconstructable: 1
+  m_BuildCost: 100
+  m_UpkeepCost: 0
+  m_Upgrade: {fileID: 11400000, guid: 7b5f72e9c5ec98545a0456a5cbca8829, type: 2}
+  m_Prefab: {fileID: 1346676013340104706, guid: 6798502aeb61f894d9c67d79e3b5bfeb, type: 3}
+  m_PrefabGhost: {fileID: 919132149155446097, guid: 59faf8c8a590319488ee03a2df655d8b, type: 3}
+  m_ShowCorruptionAnimations: 1
+  m_CorruptionSaturation: 30
+  m_CanBeInoperable: 1
+  m_CorruptionRemoval: 2

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2928478300613566225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6250211569694288280}
+  - component: {fileID: 8459307871896980091}
+  - component: {fileID: 2322841576680773008}
+  m_Layer: 0
+  m_Name: PF_AudioCorruption50
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6250211569694288280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2928478300613566225}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -31.17203, y: -21.002756, z: -10.797687}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8459307871896980091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2928478300613566225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57ef52f635874ee4eb873523a7f3752f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Candidates:
+  - {fileID: 8300000, guid: 7a44f1b4e9a6e9a46b610b6f2ce55e7c, type: 3}
+  - {fileID: 8300000, guid: 3c2d07a293b43f545a0b6308020637de, type: 3}
+  - {fileID: 8300000, guid: 7b732f16b220a4f46a1bb19290eee683, type: 3}
+  m_VolumeMin: 0.4
+  m_VolumeMax: 0.5
+  m_PitchMin: 0.8
+  m_PitchMax: 1.2
+  m_SpatialBlend: 0
+  m_DistMin: 1
+  m_DistMax: 10
+--- !u!114 &2322841576680773008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2928478300613566225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b6edde15b07f7449cd4e5a0027bc41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Delay: 1

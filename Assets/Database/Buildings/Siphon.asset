@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1eeb96def08eb44f9b78202ef3c0cd7, type: 3}
+  m_Name: Siphon
+  m_EditorClassIdentifier: 
+  m_ShortName: Siphon
+  m_Description: Extracts <sprite name=Infernite> Infernite from the Portal. You
+    can use <sprite name=Infernite> to construct buildings.
+  m_Icon: {fileID: -7951163460598071446, guid: c3bf1b159edb4f54b9374bb00295cc94, type: 3}
+  m_IsEmptySpace: 0
+  m_IsSelectable: 1
+  m_IsDeconstructable: 0
+  m_BuildCost: 0
+  m_UpkeepCost: 0
+  m_Upgrade: {fileID: 0}
+  m_Prefab: {fileID: 1346676013340104706, guid: 2d2443eeaa8c52f449361b870ba98baa, type: 3}
+  m_PrefabGhost: {fileID: 0}
+  m_ShowCorruptionAnimations: 1
+  m_CorruptionSaturation: 0
+  m_CanBeInoperable: 1

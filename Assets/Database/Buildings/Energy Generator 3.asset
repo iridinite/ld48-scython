@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eef858cc2324b454db96a1110e7e9835, type: 3}
+  m_Name: Energy Generator 3
+  m_EditorClassIdentifier: 
+  m_ShortName: Generator III
+  m_Description: Generates <sprite name=Energy> 6 Energy, used to power defensive
+    buildings.
+  m_Icon: {fileID: 6857267440601205838, guid: c3bf1b159edb4f54b9374bb00295cc94, type: 3}
+  m_IsEmptySpace: 0
+  m_IsSelectable: 1
+  m_IsDeconstructable: 1
+  m_BuildCost: 600
+  m_UpkeepCost: 0
+  m_Upgrade: {fileID: 0}
+  m_Prefab: {fileID: 1346676013340104706, guid: 802a7e366b06a504db046a8a7b0dc340, type: 3}
+  m_PrefabGhost: {fileID: 919132149155446097, guid: 4f64c5985bb3e974a86890ca87061ef1, type: 3}
+  m_ShowCorruptionAnimations: 1
+  m_CorruptionSaturation: 0
+  m_CanBeInoperable: 1
+  m_EnergyOutput: 6
